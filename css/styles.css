@@ -1,0 +1,93 @@
+/* CSS Document */
+/*********************************************
+Color Scheme                            Font Scheme
+#45577f;                                Open Sans Condensed
+#fcf8ef;                                Bree Seif
+#4c5624;
+#aaa8b3;
+#add8e9;
+*********************************************/
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #45577f;
+}
+h1 ,h2, h3, h4, h5, ul, li, a, blockquote {
+	padding: 0;
+	margin: 0;
+}
+header {
+	background: #fcf8ef;
+	min-height: 200px;
+	margin:0;
+	padding: 0;
+}
+header nav {
+	padding: 5px 25px;
+	background-color: #aaa8b3;
+}
+header img {
+	max-width: 100%;
+	margin: 0;
+	padding:0;
+	
+}
+header nav ul {
+	display: block;
+	float: right;
+}
+
+header nav ul li {
+	display: inline-block;
+	list-style: none;
+}
+
+header nav a {
+	color: #fcf8ef;
+	text-decoration: underline;
+}
+header h1 {
+	font-size: 3em;
+	background-color: #add8e9;
+	margin: 0;
+	padding: 0;
+	border: 1px solid black;
+}
+
+main {
+	margin: 0 auto;
+	/*border: 2px black solid;*/
+	max-width: 1000px;
+}
+article {
+
+}
+
+article img{
+	float: right;
+	max-width: 100%;
+	
+}
+
+h1 {
+	color: #fcf8ef;
+}
+
+h2 {
+	color: #aaa8b3;
+}
+
+blackquote {
+	color: #F9EB01;
+}
+
+table {
+	
+}
+
+footer {
+	clear: both;
+	background: #aaa8b3;
+	color: #f0eceb;
+	margin-bottom: 0;
+}
