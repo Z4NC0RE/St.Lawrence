@@ -92,3 +92,23 @@ footer {
 	color: #f0eceb;
 	margin-bottom: 0;
 }
+
+footer nav {
+	padding: 5px 25px;
+	background-color: #aaa8b3;
+}
+
+footer nav ul {
+	display: block;
+	float: right;
+}
+
+footer nav ul li {
+	display: inline-block;
+	list-style: none;
+}
+
+footer nav a {
+	color: #fcf8ef;
+	text-decoration: underline;
+}
