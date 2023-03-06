@@ -81,14 +81,14 @@ table {
 
 footer {
 	clear: both;
-	background: #aaa8b3;
-	color: #f0eceb;
+	background: aliceblue;
+	color: black;
 	margin-bottom: 0;
 }
 
 footer nav {
 	padding: 5px 25px;
-	background-color: #aaa8b3;
+	background-color: lightblue;
 }
 
 footer nav ul {
