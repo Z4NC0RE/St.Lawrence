@@ -18,7 +18,6 @@ header {
 header nav {
 	padding: 5px 25px;
 	background-color: lightblue;
-	display: inline-block;
 }
 header img {
 	max-width: 100%;
@@ -35,6 +34,7 @@ header nav ul {
 header nav ul li {
 	display: inline-block;
 	list-style: none;
+	font-size: 1.2em;
 }
 
 header nav a {
@@ -93,7 +93,6 @@ footer {
 footer nav {
 	padding: 5px 25px;
 	background-color: lightblue;
-	display: inline-block;
 }
 
 footer nav ul {
@@ -104,6 +103,7 @@ footer nav ul {
 footer nav ul li {
 	display: inline-block;
 	list-style: none;
+	font-size: 1.2em;
 }
 
 footer nav a {
