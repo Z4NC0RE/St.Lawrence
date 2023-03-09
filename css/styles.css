@@ -18,6 +18,7 @@ header {
 header nav {
 	padding: 5px 25px;
 	background-color: lightblue;
+	text-align: center;
 }
 header img {
 	max-width: 100%;
@@ -95,6 +96,7 @@ footer {
 footer nav {
 	padding: 5px 25px;
 	background-color: lightblue;
+	text-align: center;
 }
 
 footer nav ul {
