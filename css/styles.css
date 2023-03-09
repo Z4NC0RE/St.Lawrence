@@ -19,6 +19,7 @@ header nav {
 	padding: 5px 25px;
 	background-color: lightblue;
 	text-align: center;
+	font-size: 1.2em;
 }
 header img {
 	max-width: 100%;
@@ -40,8 +41,13 @@ header nav ul li {
 
 header nav a {
 	color: aliceblue;
+	text-decoration: none;
+}
+
+header nav ul li:hover {
 	text-decoration: underline;
 }
+
 header h1 {
 	font-size: 3em;
 	background-color: aliceblue;
@@ -78,8 +84,8 @@ h2 {
 	font-size: 1.5em;
 }
 
-blackquote {
-	color: #F9EB01;
+blockquote {
+	color: hsl(57, 99%, 49%);
 }
 
 table {
@@ -91,6 +97,7 @@ footer {
 	background: aliceblue;
 	color: black;
 	margin-bottom: 0;
+	text-align: center;
 }
 
 footer nav {
