@@ -44,7 +44,7 @@ header nav a {
 	text-decoration: none;
 }
 
-header nav ul li:hover {
+header nav ul:hover {
 	text-decoration: underline;
 }
 
@@ -115,6 +115,15 @@ footer nav ul li {
 	display: inline-block;
 	list-style: none;
 	font-size: 1.2em;
+}
+
+footer nav a {
+	color: aliceblue;
+	text-decoration: none;
+}
+
+footer nav ul:hover {
+	text-decoration: underline;
 }
 
 footer nav a {
